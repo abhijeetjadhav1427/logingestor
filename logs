@@ -1,0 +1,3 @@
+debug,Connection established,server-1234,2023-11-20T10:30:00Z,abc-xyz-123,span-456,5e5342f,{"parentResourceId": "server-0987"}
+error,Failed to connect to DB,server-5678,2023-11-20T10:35:00Z,pqr-uvw-456,span-789,5e5342f,{"parentResourceId": "server-0987"}
+warning,High CPU usage,server-9012,2023-11-20T10:40:00Z,lmn-opq-789,span-123,5e5342f,{"parentResourceId": "server-0987"}
